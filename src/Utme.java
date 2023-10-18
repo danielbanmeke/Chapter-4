@@ -33,7 +33,7 @@ public class Utme {
                 utmeScore = "Univerity";
             else if (average >= 180.0)
                 utmeScore = "Polytechnic";
-            else if (average >= 160.0)
+            else if (average >= 170.0)
                 utmeScore = "College of Education";
             else
                 utmeScore = "Failed, retake next year!";
