@@ -8,7 +8,7 @@ public class Condition {
         int n = input.nextInt();
 
         if (n > 10)
-            System.out.println("The number is greater than 10");
+            System.out.println("> 10");
         else if (n == 10)
             System.out.println("The number is equal to 10");
         else
